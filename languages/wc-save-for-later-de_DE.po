@@ -1,0 +1,136 @@
+# Copyright (C) 2020 WPClever.net
+# This file is distributed under the same license as the WPC Save For Later for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Save For Later for WooCommerce 1.1.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-save-for-"
+"later\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-12-03 22:18+0100\n"
+"PO-Revision-Date: 2020-12-03 22:32+0100\n"
+"X-Generator: Poedit 1.8.13\n"
+"X-Domain: woo-save-for-later\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de_DE\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Save For Later for WooCommerce"
+msgstr "WPC Save For Later for WooCommerce"
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Description of the plugin
+msgid ""
+"A WordPress plugin for WooCommerce to add save for later functionality to "
+"products in your store. It will improve customer retention and return visits "
+"to your site by giving you."
+msgstr ""
+"Ein WordPress Plugin für WooCommerce, mit dem Sie Produkte in Ihrem Shop für "
+"spätere Funktionen speichern können. Es wird die Kundenbindung verbessern "
+"und Besuche auf Ihrer Website erhöhen, wenn es aktiv ist."
+
+#. Author of the plugin
+msgid "WPClever.net"
+msgstr "WPClever.net"
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: wpc-save-for-later.php:169 wpc-save-for-later.php:223
+msgid "How to use?"
+msgstr "Wie nutzt man es?"
+
+#: wpc-save-for-later.php:185 wpc-save-for-later.php:226
+msgid "Support"
+msgstr "Support"
+
+#: wpc-save-for-later.php:195 wpc-save-for-later.php:206
+msgid "WPC Save For Later"
+msgstr "WPC Speichern für später"
+
+#: wpc-save-for-later.php:195
+msgid "Save For Later"
+msgstr "Für später speichern"
+
+#: wpc-save-for-later.php:209
+msgid ""
+"Thank you for using our plugin! If you are satisfied, please reward it a "
+"full five-star %s rating."
+msgstr ""
+"Vielen Dank, dass Sie unser Plugin verwenden! Wenn Sie zufrieden sind, "
+"belohnen Sie es bitte mit einer vollen Fünf-Sterne %s Bewertung."
+
+#: wpc-save-for-later.php:212
+msgid "Reviews"
+msgstr "Bewertungen"
+
+#: wpc-save-for-later.php:214
+msgid "Changelog"
+msgstr "Changelog"
+
+#: wpc-save-for-later.php:216
+msgid "Discussion"
+msgstr "Diskussion"
+
+#: wpc-save-for-later.php:230
+msgid "Essential Kit"
+msgstr ""
+
+#: wpc-save-for-later.php:238
+msgid ""
+"After install & active plugin, you can see the save for later functionality "
+"on the Cart page."
+msgstr ""
+"Nach der Installation und dem aktivieren des Plugins, können Sie die \"Für "
+"später speichern\" Funktionen auf der Seite \"Warenkorb\" sehen."
+
+#: wpc-save-for-later.php:250
+msgid "Save for later"
+msgstr "Für später speichern"
+
+#: wpc-save-for-later.php:265
+msgid "Saved for later products (%s)"
+msgstr "Für später gespeicherte Artikel (%s)"
+
+#: wpc-save-for-later.php:281
+msgid "Product"
+msgstr "Artikel"
+
+#: wpc-save-for-later.php:286
+msgid "Remove"
+msgstr "Entfernen"
+
+#: wpc-save-for-later.php:291
+msgid "Price"
+msgstr "Preis"
+
+#: wpc-save-for-later.php:295
+msgid "Stock"
+msgstr "Auf Lager"
+
+#: wpc-save-for-later.php:296
+msgid "In stock"
+msgstr "Vorrätig"
+
+#: wpc-save-for-later.php:296
+msgid "Out of stock"
+msgstr "Ausverkauft"
+
+#: wpc-save-for-later.php:299
+msgid "Action"
+msgstr "Aktion"
+
+#: wpc-save-for-later.php:303
+msgid "Add to cart"
+msgstr "In den Warenkorb"
+
+#: wpc-save-for-later.php:327
+msgid "WPC Save For Later require WooCommerce version 3.0.0 or greater."
+msgstr ""
